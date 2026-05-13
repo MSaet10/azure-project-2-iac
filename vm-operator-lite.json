@@ -1,0 +1,16 @@
+{
+  "Name": "VM Operator Lite",
+  "IsCustom": true,
+  "Description": "Can read, start, and restart VMs but cannot delete",
+  "Actions": [
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.Compute/virtualMachines/start/action",
+    "Microsoft.Compute/virtualMachines/restart/action"
+  ],
+  "NotActions": [
+    "Microsoft.Compute/virtualMachines/delete"
+  ],
+  "AssignableScopes": [
+    "/subscriptions/a13d5cea-6986-4a3c-97f3-b5a8108d0af7/resourceGroups/rg-cloud-iac"
+  ]
+}

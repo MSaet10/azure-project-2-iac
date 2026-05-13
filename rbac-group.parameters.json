@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "principalId": {
+      "value": "eeb6ec3f-ba03-42ac-a239-4fb67b343408"
+    },
+    "principalType": {
+      "value": "Group"
+    },
+    "roleDefinitionGuid": {
+      "value": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+    }
+  }
+}

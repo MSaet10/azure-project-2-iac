@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "principalId": {
+      "value": "17e89928-a36a-421f-8efb-7ed0b8c58fd0"
+    },
+    "principalType": {
+      "value": "User"
+    },
+    "roleDefinitionGuid": {
+      "value": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+    },
+    "logAnalyticsWorkspaceName": {
+      "value": "law-cloud-iac"
+    },
+    "vmName": {
+      "value": "vm-cloud-iac"
+}
+  }
+}
+
+
