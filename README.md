@@ -1,4 +1,4 @@
-# # Azure Infrastructure as Code (IaC) Deployment Project
+# Azure Infrastructure as Code (IaC) Deployment Project
 
 ## Project Overview
 This project demonstrates the deployment and management of a cloud infrastructure environment in Microsoft Azure using Infrastructure as Code (IaC) principles. The project focused on automating Azure resource deployment using Bicep and Terraform while implementing networking, compute, monitoring, serverless automation, backup and disaster recovery, validation testing, and GitHub-based documentation workflows.
