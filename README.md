@@ -100,4 +100,3 @@ The environment included networking, compute deployment, monitoring and observab
 
 Infrastructure deployments were validated through operational testing, backup verification, monitoring visibility checks, and Bicep deployment validation to confirm reproducibility and disaster recovery readiness.
 
-This project demonstrates practical cloud engineering, Infrastructure as Code, Azure administration, monitoring, automation, and operational troubleshooting skills suitable for cloud engineering, DevOps, and cloud infrastructure roles.
