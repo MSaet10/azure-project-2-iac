@@ -7,6 +7,9 @@ The environment was designed to simulate a real-world Azure cloud engineering wo
 
 The goal of this project was to strengthen cloud engineering and DevOps skills through Infrastructure as Code deployment, Azure automation, monitoring validation, backup testing, and operational troubleshooting.
 
+## Architecture
+![Azure IaC Architecture](diagrams/Architecture%20diagram.png)
+
 ## Technologies Used
 - Microsoft Azure
 - Azure CLI
